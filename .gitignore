@@ -77,3 +77,14 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+#custom
+Generated Files/*
+Debug/*
+Release/*
+ARM/*
+x64/*
+x86/*
+ipch/*
+*.sdf
+*.vcxproj.user

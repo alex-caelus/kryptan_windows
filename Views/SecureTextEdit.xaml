@@ -1,0 +1,12 @@
+﻿<UserControl
+    x:Class="kryptan_windows.SecureTextEdit"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Tapped="Control_Clicked" 
+    Height="39" 
+    Loaded="SecureTextEdit_Loaded" 
+    SizeChanged="SecureTextEdit_SizeChanged">
+    <Border x:Name="border" BorderThickness="2" BorderBrush="Gray" Background="WhiteSmoke">
+        <Image x:Name="Image1" Source="Assets/WideLogo.scale-100.png"></Image>
+    </Border>
+</UserControl>
