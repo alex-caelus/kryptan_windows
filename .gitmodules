@@ -1,0 +1,6 @@
+[submodule "Libs/kryptan_core"]
+	path = Libs/kryptan_core
+	url = git@github.com:alex-caelus/kryptan_core.git
+[submodule "Libs/cryptopp"]
+	path = Libs/cryptopp
+	url = git@github.com:alex-caelus/cryptopp.git
